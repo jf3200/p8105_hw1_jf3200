@@ -1,0 +1,11 @@
+---
+title: "p8105_hw1_jf3200"
+author: "Jessica Flynn"
+date: "9/14/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
