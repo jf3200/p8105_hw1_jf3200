@@ -1,1 +1,1 @@
-# p8105_hw1_jf3200
+This project contains the R markdown documents and the results for the p8105 Homework 1 assignment 
